@@ -55,7 +55,6 @@ skiller website design and application development 📲
 <p align="center">
 <a href="https://web.telegram.org/#/im?p=@NAMDEPTRAI" target="blank"><img align="center" src="https://web.telegram.org/img/logo_share.png" alt="NAMDEPTRAI" height="40" width="40" /></a>
 <a href="https://www.instagram.com/tr.nam69/?hl=vi" target="blank"><img align="center" src="https://miro.medium.com/max/1000/1*0b8Es3E79k9rnwK7YZLuDg.jpeg" alt="tr.nam69" height="60" width="60" /></a>
-<a href="https://www.facebook.com/idol.boss.52" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="idol.boss.52" height="40" width="40" /></a>
-</p>
+<a href="https://www.facebook.com/idol.boss.52" target="blank"><img align="center" src="https://www.logo.wine/a/logo/Facebook/Facebook-f_Logo-Blue-Logo.wine.svg" alt="idol.boss.52" height="60" width="60" /></a>
 <a href="https://www.linkedin.com/in/nam-deptrai-7a39791aa/" target="blank"><img align="center" src="https://i.pinimg.com/originals/ce/09/3c/ce093c7214ad357bb665cfd2f66a8b6b.png" alt="idol.boss.52" height="40" width="40" /></a>
 </p>
