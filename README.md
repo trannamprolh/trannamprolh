@@ -14,7 +14,7 @@
 
 ## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
 
-Skilled in Software Development, As Well As Basic Data Science, Machine Learning Knowledge. Strong professional with a Google Cloud Professional Certification.
+skiller website design and application development 📲
 
 ### &nbsp; &nbsp; &nbsp; &nbsp; **Keep Learning** 👨‍🎓️️
 
@@ -25,7 +25,7 @@ Skilled in Software Development, As Well As Basic Data Science, Machine Learning
 <a href="https://github.com/trannamprolh">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=trannamprolh&show_icons=true&include_all_commits=true&theme=blue-green&count_private=true">
 </a>
-<a href="https://github.com/huynhthienthach/github-readme-stats">
+<a href="https://github.com/trannmprolhdme-stats">
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=huynhthienthach&layout=compact&theme=blue-green" />
 </a>
 </br>
@@ -45,15 +45,17 @@ Skilled in Software Development, As Well As Basic Data Science, Machine Learning
 ![Linux](https://img.shields.io/badge/-linux-772953?style=for-the-badge&logo=linux)
 
 
-- 👨‍💻 All of my projects are available at [Projects](https://huynhthienthach.com/projects/)
+- 👨‍💻 Go to my website [Website](https://cloneairbnb.anthos.vn/)
 
-- 📝 I regulary write articles on [My Blog](https://huynhthienthach.com)
+- 📝 I regulary write articles on [My Blog](https://trannam.anthos.vn/)
 
 - 📫 How to reach me **namprolh69@gmail.com**
 
 
 <p align="center">
-<a href="https://dev.to/huynhthienthach" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="huynhthienthach" height="40" width="40" /></a>
-<a href="https://twitter.com/huynhthienthach" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="huynhthienthach" height="40" width="40" /></a>
-<a href="https://fb.com/thachanthos" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="thachanthos" height="40" width="40" /></a>
+<a href="https://web.telegram.org/#/im?p=@NAMDEPTRAI" target="blank"><img align="center" src="https://web.telegram.org/img/logo_share.png" alt="NAMDEPTRAI" height="40" width="40" /></a>
+<a href="https://www.instagram.com/tr.nam69/?hl=vi" target="blank"><img align="center" src="https://miro.medium.com/max/1000/1*0b8Es3E79k9rnwK7YZLuDg.jpeg" alt="tr.nam69" height="60" width="60" /></a>
+<a href="https://www.facebook.com/idol.boss.52" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="idol.boss.52" height="40" width="40" /></a>
+</p>
+<a href="https://www.linkedin.com/in/nam-deptrai-7a39791aa/" target="blank"><img align="center" src="https://i.pinimg.com/originals/ce/09/3c/ce093c7214ad357bb665cfd2f66a8b6b.png" alt="idol.boss.52" height="40" width="40" /></a>
 </p>
